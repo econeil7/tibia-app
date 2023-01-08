@@ -18,5 +18,4 @@ def get_worlds_lst():
     return worlds
 
 if __name__ == '__main__':
-    for world in worlds:
-        print(world)
+    pass
